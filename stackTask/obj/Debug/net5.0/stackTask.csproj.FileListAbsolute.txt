@@ -1,0 +1,16 @@
+C:\Users\Mona\RiderProjects\stackTask\stackTask\bin\Debug\net5.0\stackTask.exe
+C:\Users\Mona\RiderProjects\stackTask\stackTask\bin\Debug\net5.0\stackTask.deps.json
+C:\Users\Mona\RiderProjects\stackTask\stackTask\bin\Debug\net5.0\stackTask.runtimeconfig.json
+C:\Users\Mona\RiderProjects\stackTask\stackTask\bin\Debug\net5.0\stackTask.runtimeconfig.dev.json
+C:\Users\Mona\RiderProjects\stackTask\stackTask\bin\Debug\net5.0\stackTask.dll
+C:\Users\Mona\RiderProjects\stackTask\stackTask\bin\Debug\net5.0\ref\stackTask.dll
+C:\Users\Mona\RiderProjects\stackTask\stackTask\bin\Debug\net5.0\stackTask.pdb
+C:\Users\Mona\RiderProjects\stackTask\stackTask\obj\Debug\net5.0\stackTask.csproj.AssemblyReference.cache
+C:\Users\Mona\RiderProjects\stackTask\stackTask\obj\Debug\net5.0\stackTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mona\RiderProjects\stackTask\stackTask\obj\Debug\net5.0\stackTask.AssemblyInfoInputs.cache
+C:\Users\Mona\RiderProjects\stackTask\stackTask\obj\Debug\net5.0\stackTask.AssemblyInfo.cs
+C:\Users\Mona\RiderProjects\stackTask\stackTask\obj\Debug\net5.0\stackTask.csproj.CoreCompileInputs.cache
+C:\Users\Mona\RiderProjects\stackTask\stackTask\obj\Debug\net5.0\stackTask.dll
+C:\Users\Mona\RiderProjects\stackTask\stackTask\obj\Debug\net5.0\ref\stackTask.dll
+C:\Users\Mona\RiderProjects\stackTask\stackTask\obj\Debug\net5.0\stackTask.pdb
+C:\Users\Mona\RiderProjects\stackTask\stackTask\obj\Debug\net5.0\stackTask.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mona\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mona\\.nuget\\packages"
+    ]
+  }
+}
